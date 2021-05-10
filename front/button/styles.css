@@ -1,0 +1,31 @@
+.container{
+   border-radius: 14px;
+   border: solid rgb(105, 105, 105) 1.95px;
+   width: 180px;
+   height: 60px;
+   align-items: center;
+   display: flex;
+   justify-content: center;
+   box-shadow: 0 0 8px rgb(78, 78, 78);
+   background-color: rgb(216, 215, 215);
+
+}
+
+.container__button{
+    width: 170px;
+    height: 50px;
+    border-radius: 10px;
+    border: solid grey 1px;
+    color: rgb(75, 75, 75);
+    font-size: medium;
+    font-weight: bold;
+    box-shadow: 0 0 5px rgb(75, 75, 75);
+    background-color: rgb(207, 207, 207);
+
+}
+
+.fas{
+    color: grey
+}
+
+ 
